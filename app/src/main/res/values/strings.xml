@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DataHandlingt4</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="selectall">select all</string>
+    <string name="add">add</string>
+    <string name="signin">sign in</string>
+    <string name="delete">delete</string>
+    <string name="update">update</string>
+</resources>
